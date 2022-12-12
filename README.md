@@ -26,7 +26,17 @@ Visit - [AluraPlay](https://www.google.com)
 
 :heavy_check_mark: Menu mobile-first
 
+* Aprendemos uma nova propriedade flex, align-self;
+* Definimos as diferenças entre flex-item e flex-container;
+* Aprendemos como utilizar pseudo-classes;
+* Concluímos o menu para mobile;
+* Concluímos o menu para tablets.
+
 :heavy_check_mark: Menu flexível
+
+* Aprendemos como utilizar a propriedade order;
+* Utilizamos pseudo classes para mostrar os itens do menu Desktop escondidos;
+* Desenvolvemos o menu responsivo para Desktop.
 
 :heavy_check_mark: Vídeos flex-grow
 
