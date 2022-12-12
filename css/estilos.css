@@ -254,6 +254,9 @@ body {
 .videos__container {
     color: black;
     padding: 153px 20px 10px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
 .videos__item:hover {
@@ -271,6 +274,12 @@ body {
 .descricao-video p {
     font-size: 14px;
     color: #444444;
+}
+
+.videos__item{
+    height: 303px;
+    width: 280px;
+    flex-grow: 1;
 }
 
 /* RODAPÉ */
