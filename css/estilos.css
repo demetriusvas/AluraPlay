@@ -201,6 +201,11 @@ body {
     top: 80px;
     right: 0;
     left: 0;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    overflow: scroll;
+    gap: 15px;
 }
 
 .superior__item {
@@ -251,6 +256,10 @@ body {
     line-height: 1.5;
     font-size: 16px;
     background-color: white;
+    display: flex;
+    /* flex-direction: column;
+    flex-wrap: wrap; */
+    flex-flow: column wrap;
 }
 
 .rodape__titulo {
@@ -308,6 +317,7 @@ body {
     .rodape__container {
         height: 420px;
         padding-left: 74px;
+        justify-content: space-between;
     }
 
 }

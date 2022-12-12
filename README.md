@@ -3,7 +3,7 @@
 <h2 align="center">Curso: CSS: Flexbox e layouts responsivos</h2>
 <h3 align="center">Plataforma: Alura</h3>
 
-Visit - [AluraNewsletter](https://www.google.com)
+Visit - [AluraPlay](https://www.google.com)
 
 <!-- <img width="960" alt="Imagem do site" src="https://github.com/demetriusvas/robotron-2000/blob/77ae8d47575f760ee186c18de86bcb9796d18995/img/screenshot-robotron-2000.png"> -->
 
@@ -17,6 +17,12 @@ Visit - [AluraNewsletter](https://www.google.com)
 * Aplicamos estilos para telas mobile e tablet com @media.
 
 :heavy_check_mark: Rodapé responsivo
+
+* Aplicamos propriedades flex para:
+  * Alterar o eixo principal de elementos;
+  * Quebra de itens em linhas ou colunas;
+  * Aplicar espaçamento entre itens;
+* Definimos as diferenças entre display flex e inline-flex.
 
 :heavy_check_mark: Menu mobile-first
 
